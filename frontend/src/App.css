@@ -1,0 +1,159 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav{
+  justify-content: space-between;
+
+  background-color:black;
+  
+}
+.nav-right{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-right: 20px;
+  align-items: center;
+  color: chartreuse;
+}
+.nav-left{
+  padding-left: 30px;
+  padding: 20px;
+}
+.con{
+  font-family: 'Bebas Neue', sans-serif;
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid yellow;
+  padding-right: 10px;
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+
+}
+.head{
+  font-family: 'Abril Fatface', serif;
+  font-size: 45px;
+  color: chartreuse;
+  padding-left: 20px;
+}
+.b-h{
+  font-family: 'Lilita One', sans-serif;
+  color:aquamarine;
+  background-color: black;
+  border: 2px solid red;
+}
+.b-bg{
+  
+  background-color: black;
+  color: lime;
+}
+.img-c{
+  border: 3px solid whitesmoke;
+  margin-top: 20px;
+}
+.brand{
+  color: dodgerblue;
+}
+.name{
+  font-family: 'Bebas Neue', sans-serif;
+  color:gold;
+}
+.amount{
+  color: red;
+}
+.img-d{
+  border-bottom: 3px solid rgb(236, 242, 238);
+ 
+}
+.c-b{
+  font-family: 'Francois One', sans-serif;
+  height: 70px;
+  width: 120px;
+  color: cyan;
+  background-color:rgb(241, 216, 196); 
+  font-size: 30px;
+  margin: 2px 2px;
+  border: 3px solid rgb(247, 8, 8);
+  padding: 10px;
+  margin: 10px;
+  position: sticky;
+  bottom: 30px;
+  right: 20px;
+}
+.c-button{
+  position: sticky;
+  bottom: 30px;
+  right: 10px;
+  padding-left: 1200px;
+  padding-top: 450px;
+}
+.c-button1{
+  position: sticky;
+  bottom: 30px;
+  right: 10px;
+  padding-left: 1200px;
+  padding-top: 450px;
+  
+}
+.btn-a{
+  color:white;
+  height: 50px;
+  width: 120px;
+}
+.update{
+  font-size: 20px;
+  margin-left: 10px;
+  color:blue;
+}
+.btnupdate{
+  font-size: 25px;
+  background-color: blue;
+  margin-left: 73px;
+  height: 50px;
+  color: white;
+  width: 100px;
+  border:3px solid whitesmoke ;
+}
+.update-modal{
+  margin-left: 10px;
+}
+.btn-sel{
+  height: 40px;
+  width: 80px;
+  margin-bottom: 10px;
+  color: white;
+  background-color: rgb(23, 242, 23);
+  font-style:bold;
+  font-size: 25px;
+}
+.details{
+  background-color: black;
+  border-top: 2px solid red;
+  margin: 0%;
+  border-bottom: 2px solid red;
+  height: 70px;
+}
+.details1{
+  margin: 0%;
+  background-color: black;
+  height: 750px;
+}
+.img-m{
+  
+  margin-top: 70px;
+  border: 3px solid whitesmoke;
+  margin-left: 250px;
+}
+.btn-b{
+  width: 200px;
+  height: 50px;
+}
+.dov{
+  background-color: black;
+  color: beige;
+  margin:0% ;
+}
+.amount1{
+  font-family: 'Pirata One', system-ui;
+}

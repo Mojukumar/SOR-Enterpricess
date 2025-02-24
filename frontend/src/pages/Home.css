@@ -1,0 +1,15 @@
+.img{
+    height: 600px;
+    width: 1650px;
+    border-bottom: 2px solid red;
+    border-top: 2px solid red;
+}
+.home{
+    font-family: 'Lemon', serif;
+    background-color: rgb(98, 92, 92);
+    height:100px;
+    padding-top: 20px;
+    padding-left: 650px;
+    color:rgb(250, 178, 43);
+    border: 2px solid springgreen;
+}

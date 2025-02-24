@@ -1,0 +1,120 @@
+.img-m{
+    width: 50%;
+    float: left;
+    margin-left: 150px;
+}
+.dis-right{
+    width: 50%;
+    float: right;
+    
+}
+
+.confirmation-modal{
+    padding: 50px;
+    padding-left: 230px;
+    padding-top: 220px;
+    
+}
+.b{
+    font-family: 'Fugaz One', sans-serif;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 0%;
+    font-size: 30px;
+    background-color: aquamarine;
+    color: green;
+}
+.b1{
+    font-family: 'Fugaz One', sans-serif;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 35px;
+    font-size: 30px;
+    background-color: aquamarine;
+    color: red;
+}
+.order{
+    font-family: 'Rubik Bubbles', system-ui;
+    color: orange;
+    margin-top: 200px;
+}
+.app{
+    font-family: 'Lemon', serif;
+    color: rgb(243, 239, 237);
+    font-size: 40px;
+}
+.cfd{
+    background-color: black;
+    height: 700px;
+    border-top: 2px solid red;
+}
+.rig1{
+    width: 50%;
+    float: right;
+    margin-top: 180px;
+    border-left: 2px solid green;
+
+}
+.num{
+    font-family: 'Black Ops One', system-ui;
+    margin-left: 200px;
+    color: coral;
+   
+}
+.num1{
+    margin-left: 200px;
+    height: 45px;
+    width: 430px;
+    margin-top: 10px;
+    font-size: 30px;
+    background-color: aquamarine;
+    border: 3px solid gold ;
+    color:royalblue;
+}
+.y{
+    font-family: 'Fugaz One', sans-serif;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 200px;
+    font-size: 30px;
+    background-color: aquamarine;
+    color: green;
+}
+.n{
+    font-family: 'Fugaz One', sans-serif;
+    height: 50px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 35px;
+    font-size: 30px;
+    background-color: aquamarine;
+    color: red;
+}
+.total{
+    font-family: 'Rubik Bubbles', system-ui;
+    margin-left: 200px;
+    margin-top: 20px;
+    height: 50px;
+    width: 430px;
+    padding-top: 5px;
+    border: 3px solid gold ;
+    padding-left: 30px;
+    background-color:white;
+    color:blue
+}
+.total1{
+    font-family: 'Black Ops One', system-ui;
+    margin-left: 200px;
+    margin-top: 20px;
+    color: coral;
+}
+.details{
+    font-family: 'Rubik Moonrocks', sans-serif;
+
+}
+.amount1{
+    font-family: 'Bubblegum Sans', sans-serif;
+}

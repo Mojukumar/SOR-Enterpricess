@@ -1,0 +1,36 @@
+.contact-img{
+    height: 200px;
+    width: 300px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.para{
+    height: 300px;
+    width: 1000px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Shrikhand;
+}
+
+
+  .sub {
+    display: flex;
+    flex-direction: row;
+
+    justify-content: space-around;
+   
+  
+  }
+  .sub-con{
+ 
+    border: 2px rgb(47,168,47)solid;
+    width: 380px;
+    text-align: center;
+    height: 95px;
+    padding-top: 10px;
+}
+.contact-info{
+    font-family: Bowlby One SC;
+}
+  
+

@@ -1,0 +1,50 @@
+.sel-h{
+    background-color: black;
+    align-items: center;
+    justify-content: center;
+    color: aquamarine;
+    justify-items: center;
+    padding-left: 650px;
+    border-top: 2px solid red;
+    padding-bottom: 0%;
+    height: 60px;
+    border-bottom: 2px solid red;
+}
+.s-img{
+    width:33.3%;
+    height: 550px;
+    border:2px solid black;
+}
+.s-h{
+    padding: 0%;
+    padding-top: 0%;
+}
+.b-img{
+    height: 95px;
+    width: 540px;
+    background-color: lemonchiffon;
+    font-size: 40px;
+    color: red;
+    border: 3px solid rgb(236, 20, 236);
+    font-family: 'Lilita One', sans-serif;
+}
+.b-img1{
+    height: 95px;
+    width: 540px;
+    background-color: lemonchiffon;
+    font-size: 40px;
+    color: red;
+    border: 3px solid rgb(236, 20, 236);
+    font-family: 'Lilita One', sans-serif;
+}
+.b-img2{
+    height: 95px;
+    width:540px;
+    background-color:lemonchiffon;
+    font-size: 40px;
+    color:red;
+    border: 3px solid rgb(236, 20, 236);
+    font-family: 'Lilita One', sans-serif;
+}
+
+    
